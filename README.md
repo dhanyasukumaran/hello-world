@@ -1,2 +1,7 @@
 # hello-world
-As an ADM Lab project
+ADM Lab project
+hai 
+Dhanya Sukumaran
+Asst Professor
+Dept of Computer Applications
+SNGCE
